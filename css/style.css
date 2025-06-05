@@ -155,8 +155,9 @@ h3{
 #about .wrap .con .item-1 img{
     height: 80%;
     width: 90%;
-    object-fit: cover;
+    object-fit: contain;
     object-position: bottom;
+    padding-bottom: 30px;
 }
 #about .wrap .con .item-2{
     line-height: 1.8;
